@@ -1,4 +1,4 @@
 # Website For Designers
-Helpful for designer, artist and etc
+Helpful for designer, artist and etc.
 **Website:
 https://designg.netlify.app**
